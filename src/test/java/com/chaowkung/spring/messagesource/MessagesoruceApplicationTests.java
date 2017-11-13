@@ -1,4 +1,4 @@
-package com.chaowkung.spring.messagesoruce;
+package com.chaowkung.spring.messagesource;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

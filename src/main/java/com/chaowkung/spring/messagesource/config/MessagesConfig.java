@@ -1,4 +1,4 @@
-package com.chaowkung.spring.messagesoruce.config;
+package com.chaowkung.spring.messagesource.config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;

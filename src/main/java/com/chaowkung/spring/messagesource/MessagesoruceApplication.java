@@ -1,4 +1,4 @@
-package com.chaowkung.spring.messagesoruce;
+package com.chaowkung.spring.messagesource;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
